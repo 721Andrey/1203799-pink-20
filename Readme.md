@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Андрей Липовый](https://up.htmlacademy.ru/adaptive/20/user/1203799).
-* Наставник: `Неизвестно`.
+* Наставник: [Ирина Малиновская] (https://up.htmlacademy.ru/htmlcss/28/user/29644).
 
 ---
 
